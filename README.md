@@ -1,4 +1,4 @@
-![logo](https://github.com/ankitraj061/ankitraj061/blob/main/WhatsApp%20Image%202023-05-13%20at%2019.04.05.jpg  )
+![logo](https://www.canva.com/design/DAF2X6ho9-w/mChraZwPYVJMSEwXo7Ekyw/edit?utm_content=DAF2X6ho9-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton___)
 <h1 align="center">Hi 👋, I'm Ankit raj</h1>
 <h3 align="center">Persuing B Sc (Honours) from IIT Guwahati </h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" width="400">
