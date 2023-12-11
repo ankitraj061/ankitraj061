@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAF2U3Dhuok/HSxXqZrZh0-pVf67c7x1BA/edit?utm_content=DAF2U3Dhuok&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/ankitraj061/ankitraj061/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Ankit raj</h1>
 <h3 align="center">Persuing B Sc (Honours) from IIT Guwahati </h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" width="400">
