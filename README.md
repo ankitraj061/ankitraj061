@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAF2X6ho9-w/mChraZwPYVJMSEwXo7Ekyw/edit?utm_content=DAF2X6ho9-w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton___)
+![logo](https://raw.githubusercontent.com/ankitraj061/ankitraj061/8fc81e6dfd00dfb5081e80be8c0d9a6182d712f3/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png___)
 <h1 align="center">Hi 👋, I'm Ankit raj</h1>
 <h3 align="center">Persuing B Sc (Honours) from IIT Guwahati </h3>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" width="400">
